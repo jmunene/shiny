@@ -1,0 +1,150 @@
+,WPts_name,WPts_reported,WPts_not_reported,WPts_not_reported_other,WPts_reported_status,WPts_reported_non_functional_reason,WPts_reported_non_functional_reason_other,WPts_current_status,WPts_current_non_functional_reason,WPts_current_non_functional_reason_other,WPts_reported_vill,WPts_reported_scheme,region,lga,ward_merge,village_merge
+5,Kwa Kiyumbo,1,NA,NA,Functional,NA,NA,Functional,NA,NA,Gumba,upper Ruvu,Pwani,Kibaha,Ruvu,Kitomondo
+6,Muhanga,1,NA,NA,Functional,NA,NA,Functional,NA,NA,Gumba,upper Ruvu,Pwani,Kibaha,Ruvu,Kitomondo
+7,Kwa Kiruka,1,NA,NA,Functional,NA,NA,Functional,NA,NA,Kitomondo,upper Ruvu,Pwani,Kibaha,Ruvu,Kitomondo
+8,Shuleni,1,NA,NA,Functional,NA,NA,Not functional,other,Pump not working,Kitomondo,upper Ruvu,Pwani,Kibaha,Ruvu,Kitomondo
+9,Matumbo,0,not_found_wPt,NA,NA,NA,NA,Functional,NA,NA,Kitomondo,upper Ruvu,Pwani,Kibaha,Ruvu,Kitomondo
+10,Dede,0,not_found_wPt,NA,NA,NA,NA,Functional,NA,NA,Kitomondo,upper Ruvu,Pwani,Kibaha,Ruvu,Kitomondo
+18,Kwa mgaza,0,not_found_wPt,NA,NA,NA,NA,Not functional,other,Infrastructure,Minazi mikinda,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+19,Kijiweni,0,other,Don't know,NA,NA,NA,Not functional,other,Infrastructures,Minazi mikinda,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+20,Kwa kishoka,0,other,Misreporting,NA,NA,NA,Not functional,other,Infrastructures,Minazi mikinda,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+21,Kwa kabiliga,0,other,Don't know,NA,NA,NA,Not functional,other,Infrastructure,Minazi mikinda,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+22,Shule,1,NA,NA,Functional,NA,NA,Functional,NA,NA,Minazi mikinda,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+23,Kwa jadu,0,other,Misrecording,NA,NA,NA,Functional,NA,NA,Kingozi,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+24,Kwa michuzi,0,other,Misrecotding,NA,NA,NA,Functional,NA,NA,Kingozi,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+25,Kwa kulinyangwa,0,other,NA,NA,NA,NA,Functional,NA,NA,Minazi,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+26,Mgweno,1,NA,NA,Functional,NA,NA,Functional,NA,NA,Lubungo,upper Ruvu,Pwani,Kibaha,Ruvu,Minazi Mikinda
+27,Kwa moshi,0,other,Misrecording,NA,NA,NA,Functional,NA,NA,Buguruni,Wami Chalinze,Pwani,Kibaha,Gwata,Mirarazi
+28,Shabani Hassani,1,NA,NA,Functional,NA,NA,Not functional,other,Meter is not function,Gude,Wami Chalinze,Pwani,Kibaha,Gwata,Mirarazi
+44,Buguruni,0,other,Misreporting,NA,NA,NA,Functional,NA,NA,No ,Wami Chalinze,Pwani,Kibaha,Gwata,Mirarazi
+45,Kwa gude,1,NA,NA,Functional,NA,NA,Not functional,other,Meter not fuction,Gude,Wami Chalinze,Pwani,Kibaha,Gwata,Mirarazi
+138,Zahanati,1,,NA,Functional,NA,NA,Functional,NA,NA,Mjini,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+139,Kwa mbunyi,1,,NA,Functional,NA,NA,Functional,NA,NA,Mjini,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+140,Msikiti wa mjini,1,,NA,Not_Functional,7,Depriciation,Functional,NA,NA,Mjini,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+141,Msikiti wa Answari,1,,NA,Not_Functional,8,NA,Functional,NA,NA,Mjini,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+142,Umboja Karo,1,,NA,Functional,NA,NA,Functional,NA,NA,Umboja,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+143,Kwa Mariva,1,,NA,Functional,NA,NA,Functional,NA,NA,Umboja,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+144,Msikiti wa Umboja,0,other,Misscounting,NA,NA,NA,Functional,NA,NA,Umboja,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+145,Shule ya Sekondari,1,,NA,Functional,NA,NA,Functional,NA,NA,Umboja,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+146,Kwa Ijumaa Iwodya,1,,NA,Functional,NA,NA,Not functional,7,Depreciation of some parts of the supplying system and pump,Umboja,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+147,Shule ya Msingi,1,,NA,Functional,NA,NA,Functional,NA,NA,Serya,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+148,Msikiti wa Serya,1,,NA,Functional,NA,NA,Functional,NA,NA,Serya,NA,Dodoma,Kondoa,Kwadelo,Kwadelo
+149,Shule ya msingi,1,,NA,Functional,NA,NA,Not functional,4,NA,Sinjo,NA,Dodoma,Kondoa,Bumbuta,Bumbuta
+150,Kwa omari,0,other,Misscounting,NA,NA,NA,Not functional,5 8,NA,Sinjo,NA,Dodoma,Kondoa,Bumbuta,Bumbuta
+151,Kwa msepwa,1,,NA,Functional,NA,NA,Not functional,5,NA,Gubali,NA,Dodoma,Kondoa,Bumbuta,Bumbuta
+152,Kwa Iluja,1,,NA,Functional,NA,NA,Not functional,5 10,NA,Bumbuta A,NA,Dodoma,Kondoa,Bumbuta,Bumbuta
+153,Bumbuta kati,1,,NA,Functional,NA,NA,Not functional,4 5,NA,Main pipe leaking,NA,Dodoma,Kondoa,Bumbuta,Bumbuta
+274,Kwa_Mzee_Mtalimbo,1,,NA,Not_Functional,7,Infrastructes,Not functional,7,Infrastructure,Dova,NA,Morogoro,Morogoro,Mvuha,Tulo
+275,Kwa_Mzee_Papilo,1,,NA,Functional,NA,NA,Functional,NA,NA,Vundumu,NA,Morogoro,Morogoro,Mvuha,Tulo
+291,Isabe maziwani,0,other,Never enquired to ptovide the report,NA,NA,NA,Not functional,7,Depriciation,Isabe maziwani,NA,Dodoma,Kondoa,Soera,Humai
+293,Stendi Alagwa (kwa Idd Issa),1,,NA,Not_Functional,12,NA,Not functional,12 7,"Pumps out of order, depriciation",Alagwa,NA,Dodoma,Kondoa,Soera,Bukulu
+294,Kwa Boi (Msikitini),1,,NA,Not_Functional,7,Dont know,Not functional,7,Dont know,Alagwa,NA,Dodoma,Kondoa,Soera,Bukulu
+295,Kwa Boki (Aragasi),1,,NA,Not_Functional,7,Infrastructures out of order,Not functional,6 10 7,Depriciation,Alagwa,NA,Dodoma,Kondoa,Soera,Bukulu
+296,Kwa mzee Hussein (Hussein Lay),1,,NA,Not_Functional,4 5,NA,Not functional,9 7,Supplying pipes broken,Alagwa,NA,Dodoma,Kondoa,Soera,Bukulu
+297,Kwa Martin (kwa Khams Ally),1,,NA,Functional,NA,NA,Functional,NA,NA,Kambi ya Fisi,NA,Dodoma,Kondoa,Soera,Bukulu
+298,Kwa Hamadi,1,,NA,Functional,NA,NA,Functional,NA,NA,Kambi ya Fisi,NA,Dodoma,Kondoa,Soera,Bukulu
+299,Shule ya sekondari A,1,,NA,Functional,NA,NA,Functional,NA,NA,Kambi ya fisi,NA,Dodoma,Kondoa,Soera,Bukulu
+300,Shule ya sekondari B ,1,,NA,Functional,NA,NA,Not functional,6,NA,Kambi ya Fisi,NA,Dodoma,Kondoa,Soera,Bukulu
+301,Kwa Chungi,1,,NA,Functional,NA,NA,Functional,NA,NA,Bukulu A,NA,Dodoma,Kondoa,Soera,Bukulu
+302,Kwahay (kwa Nyerere Gau),1,,NA,Functional,NA,NA,Not functional,7,Supplying pump block,Bukulu A,NA,Dodoma,Kondoa,Soera,Bukulu
+303,Zawiyani ,1,,NA,Functional,NA,NA,Not functional,7,Supplying pump blocked,Bukulu A,NA,Dodoma,Kondoa,Soera,Bukulu
+304,Zahanati (Mskitini),1,,NA,Functional,NA,NA,Functional,NA,NA,Bukulu A,NA,Dodoma,Kondoa,Soera,Bukulu
+305,Stendi Bukulu B (Haruna Happy),1,,NA,Not_Functional,7,Dont know,Not functional,7,Water does not reach the point,Bukulu B,TASAF,Dodoma,Kondoa,Soera,Bukulu
+306,Mnadani,1,,NA,Not_Functional,7,Technical problem water does not flow,Not functional,7,Technical problem water doesnt flow to the point,Bukulu B,TASAF,Dodoma,Kondoa,Soera,Bukulu
+307,Bukulu B (Kwa Vicent Gulo),1,,NA,Functional,NA,NA,Functional,NA,NA,Bukulu B,TASAF,Dodoma,Kondoa,Soera,Bukulu
+308,Msikitini,1,,NA,Not_Functional,7,Dont know,Functional,NA,NA,Bukulu B,NA,Dodoma,Kondoa,Soera,Bukulu
+309,Kwa Labay Keya,1,,NA,Functional,NA,NA,Functional,NA,NA,Soera Kati,World Bank,Dodoma,Kondoa,Soera,Soera
+310,Mskitini (kwa Mora),1,,NA,Functional,NA,NA,Functional,NA,NA,Soera kati,NA,Dodoma,Kondoa,Soera,Soera
+311,Mskitini,1,,NA,Functional,NA,NA,Functional,NA,NA,Maramandimo,NA,Dodoma,Kondoa,Soera,Soera
+312,Kwa simpi,1,,NA,Functional,NA,NA,Functional,NA,NA,Maramandimo,NA,Dodoma,Kondoa,Soera,Soera
+313,Madina (kwa Haruna Juma),1,,NA,Functional,NA,NA,Functional,NA,NA,Madina,NA,Dodoma,Kondoa,Soera,Soera
+314,Shuleni (kwa Ally Bura),1,,NA,Functional,NA,NA,Functional,NA,NA,Kwa pinga ,NA,Dodoma,Kondoa,Soera,Soera
+315,Mbugani,0,other,Misscounting/reporting,NA,NA,NA,Not functional,12 7,Technical infrastructural problem,Kwa Pinga,NA,Dodoma,Kondoa,Soera,Soera
+338,Shuleni,1,,NA,Not_Functional,9 10,NA,Functional,NA,NA,Amani,DSF,Dodoma,Chemba,Chemba,Pangalua
+339,Kimoro,0,other,Misreported.,NA,NA,NA,Functional,NA,NA,Amani,DSF,Dodoma,Chemba,Chemba,Pangalua
+340,Kijiweni,1,,NA,Not_Functional,9,NA,Not functional,9,NA,Muungano,DSF,Dodoma,Chemba,Chemba,Pangalua
+341,Kanisani,1,,NA,Not_Functional,9,NA,Functional,NA,NA,Muungano,DSF,Dodoma,Chemba,Chemba,Pangalua
+342,Mwenyekiti,1,,NA,Functional,NA,NA,Functional,NA,NA,Muungano,DSF,Dodoma,Chemba,Chemba,Pangalua
+351,Kwa mwenyekiti wa kitongoji,0,other,Don't know,NA,NA,NA,Not functional,1,NA,Sangasanga,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+352,Kwa kimelo,0,other,Don't know,NA,NA,NA,Not functional,1,NA,Kimelo,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+353,Msufini,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Balani,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+354,Kwa diwani,0,other,Don'tknow,NA,NA,NA,Not functional,1,NA,Balani,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+355,Shuleni mvuha,1,,NA,Not_Functional,1,NA,Not functional,1,NA,Balani,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+356,Porini,0,other,Don't know,NA,NA,NA,Not functional,1,NA,Changarawe,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+357,Kwa fatuma,0,other,Don't know,NA,NA,NA,Not functional,1,NA,Changarawe,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+358,Kwa asha,0,other,Don't know,NA,NA,NA,Not functional,1,NA,Kiwalani,LGA,Morogoro,Morogoro,Mvuha,Mvuha
+359,Kwa_Mzee_Sudi,1,,NA,Functional,NA,NA,Functional,NA,NA,Lukulunge,NA,Morogoro,Morogoro,Mvuha,Lukulunge
+360,Kwa_Mzee_Simulizi,1,,NA,Functional,NA,NA,Functional,NA,NA,Mwembe,NA,Morogoro,Morogoro,Mvuha,Lukulunge
+361,Kwa zainabu,0,other,Don'know,NA,NA,NA,Functional,NA,NA,Mwina,NA,Morogoro,Morogoro,Mvuha,Msonge
+362,Kwa Ramadhani,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Mwina,NA,Morogoro,Morogoro,Mvuha,Msonge
+363,Kwa kibwana,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Gombo,NA,Morogoro,Morogoro,Mvuha,Msonge
+364,Kwa selestina,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Kilemela,NA,Morogoro,Morogoro,Mvuha,Msonge
+365,Kwa Nguya,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Maganga,NA,Morogoro,Morogoro,Mvuha,Msonge
+366,KwaNzumari,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Maganga,NA,Morogoro,Morogoro,Mvuha,Msonge
+367,Ofisini,0,other,Don't know,NA,NA,NA,Not functional,4,NA,Maganga,NA,Morogoro,Morogoro,Mvuha,Msonge
+368,Kwa mzee Ngoma,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Kongwa,NA,Morogoro,Morogoro,Mvuha,Msonge
+369,Kwa_Mzee_Dilawa,1,,NA,Not_Functional,7,Dont know,Functional,NA,NA,Kidai,NA,Morogoro,Morogoro,Mvuha,Msonge
+370,Shuleni,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Kidai,NA,Morogoro,Morogoro,Mvuha,Msonge
+371,Kwa joakim mponda,0,other,Don't know,NA,NA,NA,Functional,NA,NA,Kidai,NA,Morogoro,Morogoro,Mvuha,Msonge
+372,Kwa_Mzee_Makoa,1,,NA,Functional,NA,NA,Functional,NA,NA,Msonge,NA,Morogoro,Morogoro,Mvuha,Msonge
+382,Bombani,1,,NA,Functional,NA,NA,Functional,NA,NA,Bombani,Dont know,Dodoma,Chemba,Chemba,Chemba
+383,Kwamjungu,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Shuleni,Don't know,Dodoma,Chemba,Chemba,Chemba
+384,Kanisani,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Gwaiba,Don't  know,Dodoma,Chemba,Chemba,Chemba
+385,Mradini_House,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Gwaiba,Don't  know,Dodoma,Chemba,Chemba,Chemba
+386,Mzee_Shaurimoyo,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Gwaiba,Don't  know,Dodoma,Chemba,Chemba,Chemba
+387,Bombani,1,,NA,Functional,NA,NA,Not functional,5,NA,Bombani,Don't  know,Dodoma,Chemba,Chemba,Chemba
+388,Bombani,1,,NA,Functional,NA,NA,Not functional,5,NA,Bombani,Don't  know,Dodoma,Chemba,Chemba,Chemba
+389,Kwa Sasuka,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Shuleni,Don't know,Dodoma,Chemba,Chemba,Chemba
+390,Kwa Mujungu,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Shuleni,Don't know,Dodoma,Chemba,Chemba,Chemba
+391,Kwa Mujungu,1,,NA,Not_Functional,7,Depreciation,Not functional,7,Depreciation,Shuleni,Don't know,Dodoma,Chemba,Chemba,Chemba
+392,Kwa Dureri,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Gwaiba,Don't know,Dodoma,Chemba,Chemba,Chemba
+393,Kwa Mujungu,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Gwaiba,Don't know,Dodoma,Chemba,Chemba,Chemba
+394,Sabaininga,1,,NA,Not_Functional,7,Depreciation ,Not functional,7,Depreciation ,Gwaiba,Don't know,Dodoma,Chemba,Chemba,Chemba
+488,Zahanati,1,,NA,Not_Functional,7,Don't know,Functional,NA,NA,Polisi,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+489,Godown,0,other,Miscounting,NA,NA,NA,Functional,NA,NA,Polisi,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+490,Msikitini,1,,NA,Not_Functional,7,Don't know,Functional,NA,NA,Majengo,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+491,Mama Juma,0,other,Miscounting,NA,NA,NA,Functional,NA,NA,Majengo,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+492,Salim,0,other,It belong to a subvillage that was not reported,NA,NA,NA,Functional,NA,NA,Chang'ombe A,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+493,Kwa Maige,0,other,It belong to a subvillage that was not reported,NA,NA,NA,Functional,NA,NA,Chang'ombe A,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+494,Kwa Juma Nganyanga,1,,NA,Not_Functional,7,Don't know,Functional,NA,NA,Changombe B,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+495,Kipara,1,,NA,Not_Functional,7,Don't know,Functional,NA,NA,Changombe B,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+496,Issa Ndee,0,other,New water point,NA,NA,NA,Functional,NA,NA,Changombe B,BRA,Dodoma,Chemba,Mrijo,Mrijo Chini
+498,Kwa omary nasoro,0,other,Don't know,NA,NA,NA,Not functional,7,Distance of water point from the water source,Mzizima,NA,Pwani,Kibaha,Magindu,Lukenge
+499,Kwa mbegu,0,other,Mistake,NA,NA,NA,Not functional,7,Distance from main distributor,Kilung'ule,NA,Pwani,Kibaha,Magindu,Lukenge
+500,Kwa Ally Masika,0,other,Mistake,NA,NA,NA,Not functional,7,Distance from source,Kilung'ule,NA,Pwani,Kibaha,Magindu,Lukenge
+509,Machineni,1,,NA,Functional,NA,NA,Not functional,9,NA,Go Down,Don't know,Dodoma,Chemba,Paranga,Paranga
+510,Tutani_Barabarani,1,,NA,Functional,NA,NA,Functional,NA,NA,Go Down,Don't know,Dodoma,Chemba,Paranga,Paranga
+511,Msikitini,0,other,Miscounting,NA,NA,NA,Not functional,9,NA,Go Down,Don't know,Dodoma,Chemba,Paranga,Paranga
+512,Kanisani,0,other,Miscounting,NA,NA,NA,Not functional,9,NA,Go Down,Don't know,Dodoma,Chemba,Paranga,Paranga
+513,Kalenja,0,other,Misreporting,NA,NA,NA,Not functional,9,NA,Miembeni,Don't know,Dodoma,Chemba,Paranga,Paranga
+514,Rashid Aima,0,other,Misreporting,NA,NA,NA,Not functional,9,NA,Miembeni,Don't know,Dodoma,Chemba,Paranga,Paranga
+515,Kwa Mama Pendo,0,other,Misreporting,NA,NA,NA,Not functional,9,NA,Miembeni,Don't know,Dodoma,Chemba,Paranga,Paranga
+516,Kwa William,0,other,Misreporting,NA,NA,NA,Not functional,9,NA,Miembeni,Don't know,Dodoma,Chemba,Paranga,Paranga
+517,Shabani,0,other,Miscounting,NA,NA,NA,Not functional,9,NA,Go Down,Don't know,Dodoma,Chemba,Paranga,Paranga
+568,Shule ya Msingi,1,,NA,Functional,NA,NA,Functional,NA,NA,Bereko kurasini,NA,Dodoma,Kondoa,Bereko,Bereko
+569,Shemsia,1,,NA,Functional,NA,NA,Not functional,taps_out_of_order,NA,Bereko Mjini,NA,Dodoma,Kondoa,Bereko,Bereko
+570,Shule ya msingi Bereko,1,,NA,Functional,NA,NA,Functional,NA,NA,Bereko Mjini,NA,Dodoma,Kondoa,Bereko,Bereko
+571,Sokoni,1,,NA,Functional,NA,NA,Functional,NA,NA,Bereko Mjini,NA,Dodoma,Kondoa,Bereko,Bereko
+572,Zahanati,1,,NA,Functional,NA,NA,Functional,NA,NA,Bereko Mjini,NA,Dodoma,Kondoa,Bereko,Bereko
+573,Kurasini Chini,1,,NA,Functional,NA,NA,Not functional,other,Depriciation of infrastructure,Kurasini,NA,Dodoma,Kondoa,Bereko,Bereko
+574,Kurasini,1,,NA,Not_Functional,other,Depriciation of pumps,Not functional,taps_out_of_order,NA,Kurasini,NA,Dodoma,Kondoa,Bereko,Bereko
+575,Msikitini,1,,NA,Functional,NA,NA,Functional,NA,NA,Yarawaak,NA,Dodoma,Kondoa,Bereko,Bereko
+576,Shule ya sekondari Bereko,1,,NA,Functional,NA,NA,Not functional,taps_out_of_order,NA,Yarawaak,NA,Dodoma,Kondoa,Bereko,Bereko
+577,Yarawaak,1,,NA,Functional,NA,NA,Not functional,taps_out_of_order,NA,Yarawaak,NA,Dodoma,Kondoa,Bereko,Bereko
+579,Kanisani,1,,NA,Functional,NA,NA,Functional,NA,NA,Kimambo,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+580,Msikitini,1,,NA,Functional,NA,NA,Functional,NA,NA,Mkombozi,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+581,Kwa Mhogo,1,,NA,Functional,NA,NA,Functional,NA,NA,Mkombozi,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+582,Kwa Juma George,0,other,PBR Mistakenly did not include as a water point for Mkalama sub village.,NA,NA,NA,Functional,NA,NA,Mkalama,Public water scheme ,Dodoma,Chemba,Chemba,Kidoka
+583,Msangani,1,,NA,Functional,NA,NA,Functional,NA,NA,Mkalama,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+584,Kwa Ayubu,1,,NA,Functional,NA,NA,Functional,NA,NA,Mkalama,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+585,Zahanati,1,,NA,Functional,NA,NA,Functional,NA,NA,Shuleni,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+586,Kwa Kimwose,1,,NA,Functional,NA,NA,Functional,NA,NA,Shuleni,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+587,Shule ya msingi Kidoka,1,,NA,Functional,NA,NA,Functional,NA,NA,Public water scheme,Public water scheme,Dodoma,Chemba,Chemba,Kidoka
+588,Msikitini,1,,NA,Not_Functional,other,I dont know,Functional,NA,NA,Mkundulu kati,NA,Dodoma,Kondoa,Bumbuta,Mkundulu
+589,Centre,1,,NA,Not_Functional,mainpipe_broken,NA,Functional,NA,NA,Mkundulu kati,NA,Dodoma,Kondoa,Bumbuta,Mkundulu
+590,Mbugani,1,,NA,Not_Functional,other,Depriciation,Not functional,other,Depriciation,Mkundulu kati,NA,Dodoma,Kondoa,Bumbuta,Mkundulu
+591,Mgongo wa tembo,1,,NA,Not_Functional,other,Depriciation,Not functional,other,Depriciation,Mkundulu kati,NA,Dodoma,Kondoa,Bumbuta,Mkundulu
+592,Bombani,0,other,Bombani water point is in Kambi ya Nyasa village which was reported as a sub village instead of a village.,NA,NA,NA,Functional,NA,NA,Kambi ya Nyasa,Don't know,Dodoma,Chemba,Chemba,Kambi ya Nyasa
+593,Shuleni,0,other,Shuleni water point is in Kambi ya Nyasa village that was reported as a sub village instead of a village.,NA,NA,NA,Functional,NA,NA,Morongia,Don't know,Dodoma,Chemba,Chemba,Kambi ya Nyasa
+594,Stendi,0,other,Stendi water point is in Kambi ya Nyasa village that was reported as a sub village instead of a village.,NA,NA,NA,Functional,NA,NA,Morongia,Don't know,Dodoma,Chemba,Chemba,Kambi ya Nyasa
+595,Ukristoni,0,other,Ukristoni sub village is in Kambi ya Nyasa village that was reported as a sub village instead of a village.,NA,NA,NA,Functional,NA,NA,Morongia,Don't  know,Dodoma,Chemba,Chemba,Kambi ya Nyasa
