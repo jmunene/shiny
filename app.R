@@ -11,7 +11,7 @@ library(htmltools)
 # Load the required data sets
 
 # Field verification dataset for map:
-field_data_map <- read.csv('data/Water_Points_data_withCode_sep_20160924.csv',header = TRUE)
+field_data_map <- read.csv('data/field-verification-clean.csv',header = TRUE)
 
 # Field verification dataset for chart/map:
 field_data_table <- read.csv('data/Water_Points_data_withCode_20160924.csv',header = TRUE)
@@ -31,9 +31,9 @@ app <- shinyApp(
     # Title of the app:
     titlePanel('Tanzania Water Points Mapping'),
     # The filter control: Under choices=levels(you can change these depending on the filter source)
-      sidebarPanel("Please select a Village to see the Water Points in the villages:",
-                   selectInput("select", "Ward:", choices = levels(field_data_table$village_merge))),
-                   
+        sidebarPanel("Please select a Village to see the Water Points in that village:",
+                   selectInput("select", "Village:(Only water points with GPS points captured will be shown on the map, otherwise look at the charts tab for all the Water Points)", choices = levels(field_data_table$village_merge))),
+                            
     mainPanel(
       tabsetPanel(
   # Maps tab split into 2 columns:
